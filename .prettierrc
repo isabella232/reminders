@@ -1,0 +1,1 @@
+{ "arrowParens": "always", "printWidth": 140, "endOfLine": "lf", "singleQuote": false, "bracketSpacing": true, "trailingComma": "all" }
