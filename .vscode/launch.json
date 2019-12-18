@@ -8,7 +8,8 @@
       "type": "node",
       "request": "launch",
       "name": "Debug File",
-      "program": "${file}"
+      "program": "${file}",
+      "envFile": "${workspaceFolder}/.env"
     },
     {
       "type": "node",
